@@ -1,0 +1,3 @@
+webstorm配置TS运行时环境与自动编译
+https://juejin.cn/post/6844904112237051912
+https://blog.csdn.net/weixin_44454223/article/details/120469902?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-120469902-blog-127860793.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-120469902-blog-127860793.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=1
